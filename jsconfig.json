@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "baseUrl": "src",
+        "paths": {
+            "*": ["node_modules/*", "*"]
+        },
+        "jsx": "react",
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true
+    },
+    "include": [
+        "src/**/*"
+, "jsconfig.json"    ],
+    "exclude": [
+        "node_modules",
+        "**/*.spec.ts"
+    ]
+}
