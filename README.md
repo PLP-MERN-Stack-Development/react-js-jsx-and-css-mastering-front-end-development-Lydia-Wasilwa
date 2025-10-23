@@ -22,7 +22,7 @@ The application demonstrates component architecture, state management using Reac
 
 ---
 ## Live Demo
-Check out the app here: [Live Demo](https://your-demo-link.com)
+Check out the app here: [Live Demo](https://prismatic-cupcake-ba9f8f.netlify.app/)
 
 ## Setup Instructions
 1. Clone the repository.
